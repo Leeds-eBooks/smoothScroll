@@ -7,8 +7,16 @@
   "license": "MIT",
   "homepage": "https://github.com/alicelieutier/smoothScroll#readme",
   "repository": "https://github.com/alicelieutier/smoothScroll.git",
-  "keywords": [ "smooth scroll", "scroll", "no jQuery", "anchor" ],
+  "keywords": [
+    "smooth scroll",
+    "scroll",
+    "no jQuery",
+    "anchor"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bezier-easing": "^1.1.1"
   }
 }
